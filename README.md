@@ -8,16 +8,11 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -51,8 +46,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **History**: Review the chronological history of actions and changes made on the canvas, aiding in project management and version control.
 
 👉 **Deleting, Scaling, Moving, Clearing, Exporting Canvas**: Offers a range of functions for managing design elements, including deletion, scaling, moving, clearing the canvas, and exporting the final design for external use.
-
-and many more, including code architecture, advanced react hooks, and reusability 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -784,6 +777,4 @@ export const PinnedThread = ({ thread, onFocus, ...props }: Props) => {
 
 - [Assets](https://drive.google.com/file/d/17tRs0sEiIsCeTYEXhWEdHMrTshuz2oYf/view?usp=sharing)
 - [Components](https://drive.google.com/file/d/1bha-40vlGMIPW9bTRUgHD_SEmT9ZA38S/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
 
